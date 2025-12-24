@@ -98,23 +98,13 @@ export default function AboutPage() {
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
               {
-                name: "Kishan Singh",
-                role: "Lead Developer",
-                image: "https://avatars.githubusercontent.com/u/12345678?v=4",
-                social: {
-                  github: "#",
-                  linkedin: "#",
-                  twitter: "#"
-                }
-              },
-              {
                 name: "Adarsh Singh",
                 role: "Lead Developer",
-                image: "https://avatars.githubusercontent.com/u/87654321?v=4",
+                image: "/_DSC9374.JPG",
                 social: {
-                  github: "#",
-                  linkedin: "#",
-                  twitter: "#"
+                  github: "https://github.com/UksinghM",
+                  linkedin: "https://www.linkedin.com/in/utkarsh-singh-487642257/",
+                  twitter: "#",
                 }
               },
               

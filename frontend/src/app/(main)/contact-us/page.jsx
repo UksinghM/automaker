@@ -101,7 +101,7 @@ export default function ContactPage() {
                     value={formData.email}
                     onChange={handleChange}
                     className="w-full px-4 py-3 rounded-lg bg-[#0a192f] border border-gray-700 focus:border-blue-500 focus:ring-2 focus:ring-blue-500/20 text-white transition-all duration-300"
-                    placeholder="john@example.com"
+                    placeholder="usingh0811@gmail.com"
                   />
                 </motion.div>
 
@@ -170,14 +170,14 @@ export default function ContactPage() {
                   {
                     icon: "✉️",
                     title: "Email",
-                    content: "ks9520125@gmail.com",
-                    link: "mailto:ks9520125@gmail.com"
+                    content: "usingh0811@gmail.com",
+                    link: "mailto:usingh0811@gmail.com"
                   },
                   {
                     icon: "📞",
                     title: "Phone",
-                    content: "9026872887",
-                    link: "tel:9026872887"
+                    content: "7607367197",
+                    link: "tel:7607367197"
                   },
                   {
                     icon: "📍",
